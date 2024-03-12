@@ -60,6 +60,7 @@
     "@types/plotly.js-dist": "npm:@types/plotly.js",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
+    "@types/three": "^0.161.2",
     "@typescript-eslint/eslint-plugin": "^6.6.0",
     "@typescript-eslint/parser": "^6.6.0",
     "@vitejs/plugin-react": "^4.0.4",
@@ -101,6 +102,7 @@
     "@blueprintjs/popover2": "^1.4.3",
     "@box2d/core": "^0.10.0",
     "@box2d/debug-draw": "^0.10.0",
+    "@dimforge/rapier3d-compat": "^0.11.2",
     "@jscad/modeling": "2.9.6",
     "@jscad/regl-renderer": "^2.6.1",
     "@jscad/stl-serializer": "^2.1.13",
@@ -121,6 +123,7 @@
     "save-file": "^2.3.1",
     "source-academy-utils": "^1.0.0",
     "source-academy-wabt": "^1.0.4",
+    "three": "^0.161.2",
     "tslib": "^2.3.1"
   },
   "jest": {
